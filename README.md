@@ -10,5 +10,5 @@ This is a simple streamlit Mortgage Repayments Calculator which helps users calc
 - Calculation of total interest paid over the loan term
 - Visualization of the payment schedule
 
-- ## Link
-- https://amogharakere-mortage-calculator-app-tdxt7f.streamlit.app/
+ ## Link
+https://amogharakere-mortage-calculator-app-tdxt7f.streamlit.app/
