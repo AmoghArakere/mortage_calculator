@@ -1,6 +1,6 @@
 # Mortgage Repayments Calculator
 
-This is a simple Mortgage Repayments Calculator built using HTML, CSS, and JavaScript. It helps users calculate their monthly mortgage repayments, total repayments, and total interest over the life of the loan based on the input parameters: home value, deposit, interest rate, and loan term.
+This is a simple streamlit Mortgage Repayments Calculator which helps users calculate their monthly mortgage repayments, total repayments, and total interest over the life of the loan based on the input parameters: home value, deposit, interest rate, and loan term.
 
 ## Features
 
